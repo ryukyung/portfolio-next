@@ -6,7 +6,7 @@ import { TOKEN, DATABASE_ID } from '../config';
 export default function Projects({ projects }) {
   return (
     <Layout>
-      <div className="flex flex-col items-center justify-center min-h-screen px-5 py-24 mb-10 px-6">
+      <div className="flex flex-col items-center justify-center min-h-screen py-24 mb-10 px-6">
         <Head>
           <title>gaori's portfolio</title>
           <meta name="description" content="gaori's portfolio" />
